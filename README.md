@@ -7,3 +7,4 @@ sakura.ioの通信モジュールを買ってきたから、公開されてる[�
 
 - Step01 Lチカ [step01-blink.ino](arduino/step01-blink/step01-blink.ino)
 - Step02 温湿度センサ(SHT31) [step02-sht31.ino](arduino/step02-sht31/step02-sht31.ino)
+- Step03 sakura.ioの動作確認 [step03-sakuraio.ino](arduino/step03-sakuraio/step03-sakuraio.ino)
